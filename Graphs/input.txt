@@ -1,0 +1,9 @@
+8
+dog
+gopher
+roc
+cube
+elegant
+this
+that
+solid
