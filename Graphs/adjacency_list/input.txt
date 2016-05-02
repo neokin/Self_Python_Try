@@ -1,0 +1,13 @@
+8
+dog
+gopher
+roc
+cube
+elegant
+this
+that
+solid
+
+#Notice: There is bijection between words and letter
+for example "dog" is arc where letters "d" and "g"
+are tops (d = 3, g = 6)
